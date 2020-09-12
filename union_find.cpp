@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
-#include<stdio.h>
 #include<malloc.h>
 #include<fstream>
+#include<stdio.h>
 #define max 1000000
 using namespace std;
 using namespace std::chrono;
