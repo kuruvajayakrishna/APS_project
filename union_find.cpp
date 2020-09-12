@@ -1,5 +1,5 @@
-#include<stdio.h>
 #include<bits/stdc++.h>
+#include<stdio.h>
 #include<malloc.h>
 #include<fstream>
 #define max 1000000
